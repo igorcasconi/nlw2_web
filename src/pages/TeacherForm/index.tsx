@@ -153,7 +153,7 @@ function TeacherForm () {
                                     name="tom" 
                                     label="Até" 
                                     type="time" 
-                                    value={scheduleItem.from}
+                                    value={scheduleItem.to}
                                     onChange={(e) => setScheduleItemValue(index, 'to', e.target.value)}
                                 />
 
