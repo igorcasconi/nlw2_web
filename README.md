@@ -12,6 +12,7 @@ Linguagens e Tecnologias
 Bibliotecas
 ============
 - react-router-dom
+- axios
 
 Screenshots
 ===================
