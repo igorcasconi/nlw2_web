@@ -16,4 +16,4 @@ Bibliotecas
 
 Screenshots
 ===================
-<img src="./screenshots/landing.png" width="450px"> <img src="./screenshots/study.png" width="450px"> <img src="./screenshots/give-classes.png" width="450px">
+<img src="./screenshots/landing.png" width="400px"> <img src="./screenshots/study.png" width="400px"> <img src="./screenshots/give-classes.png" width="400px">
